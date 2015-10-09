@@ -1,0 +1,27 @@
+{
+  "name": "kao-ng-checkbox-button",
+  "version": "0.0.0",
+  "description": "Angular module to provide a simple button that acts like a checkbox",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-spider-script": "^0.0.9"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-spider-script": "0.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloew/kao-ng-checkbox-button.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloew/kao-ng-checkbox-button/issues"
+  },
+  "homepage": "https://github.com/cloew/kao-ng-checkbox-button#readme"
+}
